@@ -1383,7 +1383,7 @@ font-size: 2vmax;
   padding: 20px 40px;
   top: 40px;
   width: 100%;
-  gap: 40px;
+  gap: 50px;
 }
 .contact-content{
   width:100%;
@@ -1404,7 +1404,7 @@ font-size: 2vmax;
 }
 .last-button{
   position: relative;
-  top: 80px;
+  top: 90px;
   padding: 20px 50px;
   flex-direction: column;
   gap: 28px;
