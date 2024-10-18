@@ -1169,7 +1169,7 @@ footer {
   color:#fff;
 }
 
-@media (max-width:780px) {
+@media (max-width:1024px) {
   
 #loader h1{
   font-size: 3.2vmax;
