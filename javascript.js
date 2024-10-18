@@ -339,7 +339,7 @@ function emailButton(){
         const email ="wasifzafar123@gmail.com";
         const subject = encodeURIComponent("Connect to you!"); // Customize subject
         const body = encodeURIComponent("Hello, I am invited to you....."); // Customize message body
-        window.location.href ='mailto:${email}?subject=${subject}&body=${body}';
+        window.location.href ='mailto:${wasifzafar123@gmail.com}?subject=${subject}&body=${body}';
     };
 
 }
